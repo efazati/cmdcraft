@@ -1,0 +1,2 @@
+# spliter
+split --bytes 30M --numeric-suffixes --suffix-length=3 input.txt output
